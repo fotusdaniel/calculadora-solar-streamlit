@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1WdUevn5GxYO4XJDCxrL72f8LW-uTWhT1
 """
 
-# Install streamlit using pip in the notebook cell.
-!pip install streamlit
+# # Install streamlit using pip in the notebook cell.
+# !pip install streamlit
 
 # Import necessary libraries.
 import streamlit as st
